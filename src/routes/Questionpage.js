@@ -393,7 +393,7 @@ function Question() {
     
     const changeHandler = (id) => {
     setCheckedInputs([...checkedInputs, id]);
-  }
+  };
     const countE = checkedInputs.filter(item => item ==='E').length;
     const countI = checkedInputs.filter(item => item ==='I').length;
     const countN = checkedInputs.filter(item => item ==='N').length;

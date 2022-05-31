@@ -45,7 +45,7 @@ const Nametext = styled.p`
 function Main() {
     return (
         <Page>
-            <Img src="img/mainimg.png"/>
+            <Img src="img/mainimg.jpg"/>
             <Text>
                 <Nametext>Nazarene <br/> MBTI</Nametext>
             </Text>
